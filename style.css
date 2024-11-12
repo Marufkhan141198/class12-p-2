@@ -1,0 +1,78 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.p {
+
+    text-align: center;
+    font-size: x-large;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-top: 200px;
+    color: aliceblue;
+}
+.main {
+    background-color: #fad;
+    height: 1000px;
+}
+.p1 {
+    
+    text-align: center;
+    font-size: x-large;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-top: 200px;
+    color: black;
+}
+.p2 {
+    
+    text-align: center;
+    font-size: x-large;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-top: px;
+    color: black;
+}
+.p3 {
+    
+    text-align: center;
+    font-size: x-large;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-top: 200px;
+    color: black;
+}
+.home {
+    height: 20px;
+    background-color: aliceblue;
+    color: black;
+}
+.signup {
+    background-color: blue;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 1000px;
+}
+.section {
+    height: 400px;
+    width: 300px;
+    background-color: aliceblue;
+    border: 2px solid black;
+    margin: auto;
+    padding-left: 50px;
+    padding-top: 50px;
+    background-color: aqua;
+    font-size: x-large;
+
+}
+.pp {
+    margin-left: 50px;
+}
+.web {
+    text-decoration: dotted;
+    text-align: center;
+    font-size: xx-large;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding-top: 50px;
+    font-style: italic;
+
+
+}
